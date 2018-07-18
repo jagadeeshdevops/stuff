@@ -1,0 +1,92 @@
+Devops: Roles and Responsibilities-  
+====================================
+
+Designation:- Devops Engineer.
+------------  ----------------
+
+1. Make sure that the CICD pipeline is running smoothly - This is one of the most important task as a Devops Engineer to make sure that while running CICD pipeline
+if it get any error fixing it or failure with it is the #1 priority of the day. Then often need to spend time on troubleshooting, analysing and providing fixes 
+to issues.
+
+2. Interaction with other teams - Co-ordination and collaboration is the key for Devops to be successful and hence daily integration with Dev and QA team, program 
+management, IT is always required.
+
+3. Working experience in continuous integration using Github, maven, Jenkins, and Chef.
+
+4. Responsible for version control management, branching, merging, and user group permissions.
+
+5. Deploying the JAR and WAR into Tomcat application server.
+
+6. Creating new build jobs, Plugins installation and management, Test case integration, setting up master/slaves using Jenkins.
+
+7. Verify Deployments logs for successful deployments. Monitoring application servers and fixing issues if any.
+
+8. Working with shell scripting.
+
+9. Creating CI/CD pipelines by integrating Git, GitHub, Ant, Maven, Jenkins, Chef, and AWS.
+
+10. Handling all phases of Build activities. 
+
+11. Creating new jobs in Jenkins and managing the build related issues.
+
+12. Automating build process for creating JAR/WAR
+
+13. Coordinating with the Development team to fix the Build related issues.
+
+
+---------------
+ 
+
+
+Project Name: -
+--------------
+
+About the Project. what type of project?
+
+How many servers we have in this project for maintaining the application of a Data?
+
+--------------------
+
+
+Attempting the calls, and Scheduling the interview call? Questions:-
+.......
+
+1. Hi I'm I speaking to Raju?
+
+2. Are you looking for the Job change?
+
+3. How many years of experience you have?
+
+4. Relevant experience into the Devops? years?
+
+5. Which company are you working now? Is it your permanent or Contract with this company?
+
+6. Then who is your Payroll?
+
+7. What is your current CTC? Then Expected salary?
+
+8. What is your official notice period? Is it negotiable?
+
+9. Why are you looking for job change?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

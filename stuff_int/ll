@@ -1,0 +1,51 @@
+[8:58 PM, 6/27/2018] Dada Proxytem: 1. How many ways to create a docker image
+2. How I need to Upon run my container always without fail..
+3. What are the types of containers.
+4. If you are running a container how you will increase the size of the container without down time
+5. How u will run an image from outside of the container.
+6. Difference between docker hub and docker registry..
+[8:58 PM, 6/27/2018] Dada Proxytem: 1. Two ways
+2. With Docker's Restart Policy
+3. Java containers & hyper-v containers
+4. docker compose
+5. By using port forwarding 
+6. Hub : a service storing your docker images
+Repository : collection of different images with same name that have different tags
+[8:59 PM, 6/27/2018] Dada Proxytem: Interview Questions:
+
+1. which domain u working on ur company?
+2. what is AWS Cloud Formation? Can u Elaborate on that? y we use it?
+4. what are the templates in cloud formation?
+3. what are the parameters that are mandatory in aws cloud formation templtes?
+4. Tell me about autoscaling?
+5. which services shoudl i use to get relaibility, robustness and admirability for my application?
+
+5. what is disard capsity in Autoscaling? ( i didn't understand what d question is)
+
+6. what is the min max instances in autoscaling configuration?
+7. what is ELB? what is the benifit of elb?
+8. what is health check?
+9. i have enabled port no 80 while creating instance in SG on my IP, even though am not getting my website, i       have contacted aws support on that, they tell me check ur VPC configerations,,,what should i do for that,            what configurations do i need to check?
+10. what is userdata in ec2?
+11. y we use userdate in cloud formation template while creating ec2 instance?
+12. what is Elastic bean Stalk?
+13. ec2 is there for hosting then y we use elastic beanstalk?
+14. what is managed platform?
+15. what is custom resourcing in aws? what is sts security in aws?
+16. what u elastic block storage? can u elaborate on it?
+17. what is s3? what is versioning? what is life cycle management?
+18. what is aws glacier?
+19. which language worked on?
+20. for d last 6 months what is ur most challenging project? explain?
+21. what is cloud front?
+
+
+22. Have u deployed any web applications in AWS? What did u deployed?
+23. Did u deployed any real time projects?
+24. what is Auto scaling? what type of auto scaling did u used programmatic r manual     auto scaling? What are things to do? 
+25. how do u do auto scaling? what parameters u used in API? What API u used in         Auto scaling?
+26. what is cloud front? Did u configure cloud front in AWS?
+28. what kind of security u worked on AWS?
+29. Have u done hybrid integration?
+30. what is route 53? what is the use and how to work with it?
+31. What is CIDR (Classless Inter-Domain Routing)

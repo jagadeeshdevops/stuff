@@ -1,0 +1,23 @@
+
+uname:- jagaas
+pwd:- sunayana143
+
+
+
+
+checking service node to chef server:-
+-------------------------------------
+$ knife ssl check(this command should run before .chef directory(/jabong/cookbooks))
+
+cookbook url:- git clone https://github.com/learn-chef/learn_chef_apache2.git
+-------------
+
+cookbook upload command:-
+--------------------------
+$ knife cookbook upload cookbook name(learn_chef_apache2)
+
+
+Bootstrap command:--
+------------------------
+$ knife bootstrap 172.17.0.2 --ssh-user jaga --ssh-password 123456 --sudo --use-sudo-password --node-name node1 --run-list recipe[learn_chef_apache2]
+

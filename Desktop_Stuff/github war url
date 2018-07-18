@@ -1,0 +1,26 @@
+https://github.com/kpraveen1992/counterwebapp.git
+
+
+
+
+http://github.com/Dada12590/Dkart.git
+
+
+
+
+
+
+
+
+
+
+skype installation
+----------------------------
+
+
+
+$ sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+$ sudo dpkg --add-architecture i386
+$ sudo apt-get update
+$ sudo apt-get install skype
+

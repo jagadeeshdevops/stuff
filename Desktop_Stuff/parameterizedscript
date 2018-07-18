@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+#!/bin/bash
+if [ $ENVIRONMENT="DEV" ]; then
+	echo Deploying to "$ENVIRONMENT" Environment...
+sshpass -p "1111" scp ~/.jenkins/workspace/job1/target/parrots.war onenode@172.17.0.3:/home/onenode/softwares/apache-tomcat-8.5.32/webapps
+echo "deployment was successfully completed..."
+
+elif [ $ENVIRONMENT="QA" ]; then
+     	echo Deploying to "$ENVIRONMENT" Environment...
+sshpass -p "2222" scp ~/.jenkins/workspace/job1/target/parrots.war twonode@172.17.0.2:/home/twonode/softwares/apache-tomcat-8.5.32/webapps
+echo "deployment was successfully completed..."
+
+elif [ $ENVIRONMENT="UAT" ]; then
+     	echo Deploying to "$ENVIRONMENT" Environment...
+sshpass -p "3333" scp ~/.jenkins/workspace/job1/target/parrots.war threenode@172.17.0.4:/home/threenode/softwares/apache-tomcat-8.5.32/webapps
+echo "deployment was successfully completed..."
+fi
+
+
